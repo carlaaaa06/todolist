@@ -1,1 +1,127 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<todolist>
+    <task>
+        <name>TP 1</name>
+        <description>Faire le TP 1 de XML</description>
+        <datedebut>2024-02-19</datedebut>
+        <datefin>2024-02-25</datefin>
+        <priority>Haute</priority>
+        <assigned_to>
+            <student>Jecina</student>
+        </assigned_to>
+    </task>
+    <task>
+        <name>Laver la voiture</name>
+        <description>Passer l'aspirateur dans la voiture</description>
+        <datedebut>2024-02-20</datedebut>
+        <datefin>2024-02-28</datefin>
+        <priority>Moyenne</priority>
+        <assigned_to>
+            <student>Melissa</student>
+        </assigned_to>
+    </task>
+    <task>
+        <name>Aller chez la coiffeuse</name>
+        <description>couper mes cheveux</description>
+        <datedebut>2024-02-20</datedebut>
+        <datefin>2024-02-28</datefin>
+        <priority>Moyenne</priority>
+        <assigned_to>
+            <student>Lola</student>
+        </assigned_to>
+    </task>
+    <task>
+        <name>Promer le chien</name>
+        <description>faire la balade au parc</description>
+        <datedebut>2024-02-20</datedebut>
+        <datefin>2024-02-28</datefin>
+        <priority>Moyenne</priority>
+        <assigned_to>
+            <student>Jecina</student>
+        </assigned_to>
+    </task>
+    <task>
+        <name>Prendre les billets d'avions</name>
+        <description>Voyage Amsterdam</description>
+        <datedebut>2024-02-20</datedebut>
+        <datefin>2024-02-28</datefin>
+        <priority>Moyenne</priority>
+        <assigned_to>
+            <student>Melissa</student>
+        </assigned_to>
+    </task>
+    <task>
+        <name>Préparer présentation</name>
+        <description>Préparer la présentation pour le projet</description>
+        <datedebut>2024-02-20</datedebut>
+        <datefin>2024-02-28</datefin>
+        <priority>Moyenne</priority>
+        <assigned_to>
+            <student>Jecina</student>
+            <student>Carla</student>
+        </assigned_to>
+    </task>
+    <task>
+        <name>Ranger ma chambre</name>
+        <description>Grand menage </description>
+        <datedebut>2024-02-20</datedebut>
+        <datefin>2024-02-28</datefin>
+        <priority>haute</priority>
+        <assigned_to>
+            <student>Luna</student>
+        </assigned_to>
+    </task>
+    <task>
+        <name>Aller a carrefour</name>
+        <description>acheter du café</description>
+        <datedebut>2024-02-20</datedebut>
+        <datefin>2024-02-28</datefin>
+        <priority>Moyenne</priority>
+        <assigned_to>
+            <student>Lola</student>
+            <student>Carla</student>
+        </assigned_to>
+    </task>
+    <task>
+        <name>Anniversaire</name>
+        <description>Préparer mon anniversaire</description>
+        <datedebut>2024-02-20</datedebut>
+        <datefin>2024-02-28</datefin>
+        <priority>Basse</priority>
+        <assigned_to>
+            <student>Carla</student>
+        </assigned_to>
+    </task>
+    <task>
+        <name>Reparer le telephone</name>
+        <description>changer l'écran</description>
+        <datedebut>2024-02-20</datedebut>
+        <datefin>2024-02-28</datefin>
+        <priority>Haute</priority>
+        <assigned_to>
+            <student>Lola</student>
+        </assigned_to>
+    </task>
+    <task>
+        <name>Finir le covering</name>
+        <description>Changer de couleur de voiture</description>
+        <datedebut>2024-02-20</datedebut>
+        <datefin>2024-02-28</datefin>
+        <priority>Basse</priority>
+        <assigned_to>
+            <student>Luna</student>
+        </assigned_to>
+    </task>
+    <task>
+        <name>Réunion d'équipe</name>
+        <description>Assister à la réunion d'équipe</description>
+        <datedebut>2024-02-22</datedebut>
+        <datefin>2024-02-22</datefin>
+        <priority>Basse</priority>
+        <assigned_to>
+            <student>Luna</student>
+            <student>Melissa</student>
+        </assigned_to>
+    </task>
+    <!-- Ajoutez ici d'autres tâches assignées à différentes personnes -->
+</todolist>
