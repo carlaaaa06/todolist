@@ -36,3 +36,42 @@
         <priority>Basse</priority>
     </task>
 </tasks>
+<?xml version="1.0"encoding="UTF-8"?>
+<task> 
+	<name> courses à faire </name>
+		<description> faire liste de courses, se rendre à leclerc</description>
+			<datedebut> Le 2 février </datedebut>
+				<datefin> Le 3 février </datefin>
+				<priority> moyenne </priority>
+</task>
+
+<task>
+<name> aller a la salle de sport </name>
+		<description> se preparer en tenue de sport, se rendre à la salle de sport, faire du sport, rentrer à la maison </description>
+			<datedebut> Le 4 février </datedebut>
+				<datefin> Le 4 février </datefin>
+				<priority> moyenne </priority>
+</task>
+<task>
+
+				<name> aller chez ma cousine </name>
+		<description> preparer mes affaires , me rendre chez ma cousine</description>
+			<datedebut> Le 6 février </datedebut>
+				<datefin> Le 7 février </datefin>
+				<priority> moyenne </priority>
+</task>
+
+	<task>	
+<name> vacance chez ma cousine  </name>
+		<description> aller à la piscine, aller au restaurant, aller au zoo</description>
+			<datedebut> Le 9 février </datedebut>
+				<datefin> Le 11 février </datefin>
+				<priority> moyenne </priority>
+			</task>
+<task>
+<name> rdv ophtalmo </name>
+		<description> preparer, document, se rendre chez l'ophtalmo</description>
+			<datedebut> Le 13 février </datedebut>
+				<datefin> Le 13 février </datefin>
+				<priority> importante </priority>
+</task>
