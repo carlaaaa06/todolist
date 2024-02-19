@@ -113,3 +113,43 @@
 					<priority>haute</priority>
 
 				</task>	
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<tasks>
+    <task>
+        <title>Faire la vaisselle</title>
+        <description>Faire la vaisselle et la ranger</description>
+        <datedebut>05-02-2024</datedebut>
+        <datefin>05-02-2024</datefin>
+        <priority>moyenne</priority>
+    </task>
+    <task>
+        <title>Faire le sport</title>
+        <description>Faire le sport</description>
+        <datedebut>05-02-2024</datedebut>
+        <datefin>05-02-2024</datefin>
+        <priority>haute</priority>
+    </task>
+    <task>
+        <title>Recopier cours</title>
+        <description>Écouter l'audio du cours et le réécrire</description>
+        <datedebut>05-02-2024</datedebut>
+        <datefin>05-02-2024</datefin>
+        <priority>haute</priority>
+    </task>
+    <task>
+        <title>Finir le covering</title>
+        <description>Finir le covering sur la voiture</description>
+        <datedebut>05-02-2024</datedebut>
+        <datefin>15-02-2024</datefin>
+        <priority>basse</priority>
+    </task>
+    <task>
+        <title>Reviser les cours</title>
+        <description>Réviser les cours où il y a bientôt des partiels</description>
+        <datedebut>05-02-2024</datedebut>
+        <datefin>10-02-2024</datefin>
+        <priority>moyenne</priority>
+    </task>
+</tasks>
