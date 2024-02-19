@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tasks>
+    <task>
+        <name>TP 1</name>
+        <description>Faire le TP 1 de XML</description>
+        <datedebut>2024-02-19</datedebut>
+        <datefin>2024-02-25</datefin>
+        <priority>Haute</priority>
+    </task>
+    <task>
+        <name>Préparer présentation</name>
+        <description>Préparer la présentation pour le projet</description>
+        <datedebut>2024-02-20</datedebut>
+        <datefin>2024-02-28</datefin>
+        <priority>Moyenne</priority>
+    </task>
+    <task>
+        <name>Aller a la salle</name>
+        <description>faire les abdos</description>
+        <datedebut>2024-02-20</datedebut>
+        <datefin>2024-02-28</datefin>
+        <priority>Moyenne</priority>
+    </task>
+    <task>
+        <name>reviser le cm</name>
+        <description>Reviser le cours de management</description>
+        <datedebut>2024-02-20</datedebut>
+        <datefin>2024-02-28</datefin>
+        <priority>Haute</priority>
+    </task>
+    <task>
+        <name>Réunion d'équipe</name>
+        <description>Assister à la réunion d'équipe</description>
+        <datedebut>2024-02-22</datedebut>
+        <datefin>2024-02-22</datefin>
+        <priority>Basse</priority>
+    </task>
+</tasks>
